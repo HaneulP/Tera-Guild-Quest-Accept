@@ -2,12 +2,12 @@
 "files": {
 	"index.js": "8155b0c47d5dbd45a220088e2e9d9b56c3635fc994dae6f941ebd61f46bea215",
 	"database.js": "4ee4ba917613e1c286332b22ef8674180260b21dd03817af0c800a26c19bfbe3",
-	"module.json": "5b722dc1eff63184dd0d2e4fd6f3b802e87c845ccb88e07e5dde6f46526106a7"
+	"module.json": "8d43d48d1c1b0240a11984cc7698bc16d6e60ccb99221764f17439c93f02ade8"
 },
 
 "defs": {
 	"C_REQUEST_START_GUILD_QUEST": 1,
 	"S_LOGIN": 14,
-	"S_GUILD_INFO": 1,
+	"S_GUILD_INFO": 1
 	}
 }
