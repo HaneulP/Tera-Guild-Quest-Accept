@@ -1,4 +1,4 @@
-module.exports = GuildQuestAccept(mod) {
+module.exports = function GuildQuestAccept(mod) {
 
 let guild = false
 const database = require('./database.js')
